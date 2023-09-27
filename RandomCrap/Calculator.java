@@ -1,0 +1,7 @@
+package RandomCrap;
+public class Calculator {
+    public static void main(String[] args)
+    {
+        
+    }
+}
